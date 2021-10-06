@@ -60,14 +60,14 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! ��ӭ�����ҵ�  <strong>����</strong>, �����ҵ�<a href="https://github.com/oycd">github</a> ��ַ<br />
+								<h2 class="alt">Hi! 欢迎来到OYCD的 <strong>博客</strong>, 这是我的<a href="https://github.com/oycd">github</a> ��ַ<br />
 								</h2>
-								<p>�Һܲ�<br />
-								�����ĵ���������</p>
+								<p>地址<br />
+								我是菜鸟本鸟</p>
 							</header>
 
 							<footer>
-								<a href="#portfolio" class="button scrolly">���¼�¼</a>
+								<a href="#portfolio" class="button scrolly">文章记录</a>
 							</footer>
 
 						</div>
@@ -78,10 +78,10 @@
 						<div class="container">
 
 							<header>
-								<h2>���¼�¼</h2>
+								<h2>文章记录</h2>
 							</header>
 
-							<p>��ʱ��û�У�����ô��д����</p>
+							<p>我还没开始写文章，来几张图片吧</p>
 
 							<div class="row">
 								<div class="col-4 col-12-mobile">
@@ -102,13 +102,13 @@
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a>
 										<header>
-											<h3>̫��</h3>
+											<h3>̫太阳</h3>
 										</header>
 									</article>
 									<article class="item">
 										<a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
 										<header>
-											<h3>������</h3>
+											<h3>出来了</h3>
 										</header>
 									</article>
 								</div>
@@ -141,7 +141,7 @@
 
 							<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
 
-							<p>��У��ѧ������̲���</p>
+							<p>我是一个编程初学者，菜鸟级，梦想是能独立写出一个应用</p>
 
 						</div>
 					</section>
@@ -151,10 +151,10 @@
 						<div class="container">
 
 							<header>
-								<h2>��ϵ��ʽ</h2>
+								<h2>联系</h2>
 							</header>
 
-							<p>���ﻹû��ã���������</p>
+							<p>还没有研究出来</p>
 
 							<form method="post" action="#">
 								<div class="row">
@@ -164,7 +164,7 @@
 										<textarea name="message" placeholder="Message"></textarea>
 									</div>
 									<div class="col-12">
-										<input type="�ύ" value="������Ϣ" />
+										<input type="提交" value="发送" />
 									</div>
 								</div>
 							</form>
