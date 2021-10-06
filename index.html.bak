@@ -31,7 +31,7 @@
 								<li><a href="#top" id="top-link"><span class="icon solid fa-home">介绍</span></a></li>
 								<li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">内容</span></a></li>
 								<li><a href="#about" id="about-link"><span class="icon solid fa-user">关于我</span></a></li>
-								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">联系ϵ</span></a></li>
+								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">联系</span></a></li>
 							</ul>
 						</nav>
 
@@ -60,9 +60,9 @@
 						<div class="container">
 
 							<header>
-								<h2 class="alt">Hi! 欢迎来到OYCD的 <strong>博客</strong>, 这是我的<a href="https://github.com/oycd">github</a> ��ַ<br />
+								<h2 class="alt">Hi! 欢迎来到OYCD的 <strong>博客</strong>, 这是我的<a href="https://github.com/oycd">github</a>地址<br />
 								</h2>
-								<p>地址<br />
+								<p>自我介绍<br />
 								我是菜鸟本鸟</p>
 							</header>
 
